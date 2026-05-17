@@ -17,10 +17,10 @@ conda create --name claude_code python
 # 查看虚拟环境
 conda env list 
 
-# 进去虚拟环境
+# 激活虚拟环境
 conda activate claude_code 
 
-# 进去虚拟环境
+# 退出虚拟环境
 conda deactivate 
 ```
 
