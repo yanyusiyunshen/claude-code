@@ -1,4 +1,4 @@
-# claude-code创建，连接Deepseek（Linx环境）
+# claude-code创建，连接Deepseek（Linux环境）
 
 ## conda的安装
 
@@ -48,7 +48,7 @@ npm install -g @anthropic-ai/claude-code # 可能很慢
 claude --version 
 ```
 
-## ccswitch安装（切换模型的工具）
+## ccswitch安装
 
 ```
 # 安装
